@@ -69,7 +69,7 @@
 <!-- Most used languages -->
 <div style="margin-top: 20px; text-align: center;">
     <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Azizbek-Qodirov&layout=compact&theme=tokyonight&hide=html" alt="Top Langs over time">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=azizbek-qodirov&layout=compact&theme=tokyonight&hide=html" alt="Top Langs over time">
     </a>
 </div>
 
